@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hormold-cognition-wheel-badge.png)](https://mseep.ai/app/hormold-cognition-wheel)
+
 # Cognition Wheel MCP Server
 
 A Model Context Protocol (MCP) server that implements a "wisdom of crowds" approach to AI reasoning by consulting multiple state-of-the-art language models in parallel and synthesizing their responses.
